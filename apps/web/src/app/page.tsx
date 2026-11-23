@@ -58,7 +58,7 @@ const structuredData = [
     },
     downloadUrl: 'https://www.npmjs.com/package/devgraph',
     softwareHelp: `${siteUrl}/docs`,
-    codeRepository: 'https://github.com/ameyalambat128/devgraph',
+    codeRepository: 'https://github.com/ameyalambat/devgraph',
   },
 ];
 
@@ -198,7 +198,7 @@ export default function Home() {
                   <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                 </Link>
                 <Link
-                  href="https://github.com/ameyalambat128/devgraph"
+                  href="https://github.com/ameyalambat/devgraph"
                   target="_blank"
                   rel="noreferrer"
                   className="group inline-flex items-center justify-center rounded-sm border border-white/20 bg-white/5 px-6 py-3 text-sm font-medium text-white transition-all hover:bg-white hover:text-black hover:border-white"
@@ -461,7 +461,7 @@ Generated files:
                   <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                 </Link>
                 <Link
-                  href="https://github.com/ameyalambat128/devgraph"
+                  href="https://github.com/ameyalambat/devgraph"
                   target="_blank"
                   rel="noreferrer"
                   className="group inline-flex items-center justify-center rounded-sm border border-white/20 bg-transparent px-6 py-3 text-sm font-medium text-white transition-all hover:bg-white hover:text-black hover:border-white"

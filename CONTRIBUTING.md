@@ -6,7 +6,7 @@ Thanks for your interest in contributing!
 
 ```bash
 # Clone and install
-git clone https://github.com/ameyalambat128/devgraph.git
+git clone https://github.com/ameyalambat/devgraph.git
 cd devgraph
 pnpm install
 

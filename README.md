@@ -1,8 +1,8 @@
-# <img src="https://github.com/ameyalambat128/devgraph/blob/main/.github/public/icon.png" width="40" align="top" /> DevGraph
+# <img src="https://github.com/ameyalambat/devgraph/blob/main/.github/public/icon.png" width="40" align="top" /> DevGraph
 
 [![npm version](https://img.shields.io/npm/v/devgraph?style=flat&labelColor=000&color=8B5CF6)](https://www.npmjs.com/package/devgraph)
 [![npm downloads](https://img.shields.io/npm/dm/devgraph?style=flat&labelColor=000&color=8B5CF6)](https://www.npmjs.com/package/devgraph)
-[![GitHub stars](https://img.shields.io/github/stars/ameyalambat128/devgraph?style=flat&labelColor=000&color=8B5CF6)](https://github.com/ameyalambat128/devgraph/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/ameyalambat/devgraph?style=flat&labelColor=000&color=8B5CF6)](https://github.com/ameyalambat/devgraph)
 
 Persistent local code memory for AI coding assistants.
 
