@@ -37,7 +37,7 @@ export function Footer() {
           <ul className="space-y-4 text-sm text-gray-400">
             <li>
               <Link
-                href="https://github.com/ameyalambat128/devgraph"
+                href="https://github.com/ameyalambat/devgraph"
                 className="hover:text-white transition-colors"
               >
                 GitHub
@@ -45,7 +45,7 @@ export function Footer() {
             </li>
             <li>
               <Link
-                href="https://github.com/ameyalambat128/devgraph/releases"
+                href="https://github.com/ameyalambat/devgraph/releases"
                 className="hover:text-white transition-colors"
               >
                 Changelog

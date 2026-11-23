@@ -44,7 +44,7 @@ export function Navbar() {
             Story
           </Link> */}
           <Link
-            href="https://github.com/ameyalambat128/devgraph"
+            href="https://github.com/ameyalambat/devgraph"
             target="_blank"
             className="transition-colors hover:text-white"
           >

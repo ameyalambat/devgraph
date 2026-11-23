@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ameyalambat128/devgraph",
+    "url": "https://github.com/ameyalambat/devgraph",
     "directory": "packages/devgraph-cli"
   },
   "homepage": "https://devgraph.ameyalambat.com",
